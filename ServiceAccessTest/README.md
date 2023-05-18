@@ -1,4 +1,4 @@
-# ServiceAccess Nuget
+# WebApiPrueba
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/smerino20/serviceaccess-nuget.git
+git remote add origin https://gitlab.com/ssalanitri/webapiprueba.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/smerino20/serviceaccess-nuget/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/ssalanitri/webapiprueba/-/settings/integrations)
 
 ## Collaborate with your team
 

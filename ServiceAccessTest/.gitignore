@@ -27,3 +27,7 @@ msbuild.err
 msbuild.wrn
 
 # Config files
+
+*.config
+launchSettings.json
+

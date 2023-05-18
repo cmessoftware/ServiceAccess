@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceAccess", "ServiceAccess\ServiceAccess.csproj", "{42F56E0B-8344-49F3-A390-6AF89AE6B473}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceAccessTest", "ServiceAccessTest\ServiceAccessTest\ServiceAccessTest.csproj", "{EB1E553A-25F4-48DD-878D-1C9CA2A7829D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F56E0B-8344-49F3-A390-6AF89AE6B473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F56E0B-8344-49F3-A390-6AF89AE6B473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F56E0B-8344-49F3-A390-6AF89AE6B473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F56E0B-8344-49F3-A390-6AF89AE6B473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1E553A-25F4-48DD-878D-1C9CA2A7829D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1E553A-25F4-48DD-878D-1C9CA2A7829D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1E553A-25F4-48DD-878D-1C9CA2A7829D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1E553A-25F4-48DD-878D-1C9CA2A7829D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AD3D3E-B498-4B6A-B9EB-B57C2FE87C94}
+	EndGlobalSection
+EndGlobal
